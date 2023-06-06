@@ -4,7 +4,7 @@ public class demogit
 {
 public static void main(String[] args) {
 	System.out.println("this is demo");
-	printnom(1,100);
+	printnom(1,11);
 }
 
 private static void printnom(int i, int j) {
