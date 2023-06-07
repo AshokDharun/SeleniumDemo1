@@ -10,7 +10,7 @@ public static void main(String[] args) {
 private static void printnom(int i, int j) {
 	if(i<j)
 	{ 
-		System.out.print(i+ " ");
+		System.out.print(i+ " ") ;
 		i=i+1;
 		printnom(i, j);
 	}
