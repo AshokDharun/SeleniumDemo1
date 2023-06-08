@@ -1,0 +1,21 @@
+servetal link--> https://customer.servetel.in/welcome
+Setting -->user management-->manage team -->Add team menber
+		-->user(caller),loginid(office number),
+		-->pno(office number),AgentforCDR(select all)
+		-->DiD for CDR(All),Associate agent (none)	
+Aervices --> agents
+	->Add agent (corner)(Call for-office number)
+		(intercorn number- code numberlike emp id)
+		(Department -cc,excelation,vendar)
+		(caller id-8068number select)
+		(Time group)-create time group
+		(days)choes days count(1-31), month 
+		Hange up
+
+Departments
+	--> vendar
+	-->excelatiom
+	-->customer care 
+	   -->edit
+		
+call detail records--> all record history
